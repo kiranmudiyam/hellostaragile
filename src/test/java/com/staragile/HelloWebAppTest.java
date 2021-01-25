@@ -38,8 +38,7 @@ public class HelloWebAppTest extends Mockito{
 
         int k= new HelloWebApp().sub(8,7);
         assertEquals("Problem with Sub function:", 1, k);
-
-        
+  
     }
     
     @Test
